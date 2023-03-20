@@ -6,6 +6,7 @@
   "bin": {
     "<md-links-validate>": "./cli.js"
   },
+  "preferGlobal": true,
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,11 +21,15 @@
   "author": "Matheus Teixeira <contato.matheusteixeira@gmail.com> (https://matheusteixeira.com.br/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aeusteixeira/md-links-validate",
+    "url": "https://github.com/aeusteixeira/md-links-validate/issues",
     "email": "contato.matheusteixeira@gmai.com"
   },
   "homepage": "matheusteixeira.com.br",
   "dependencies": {
-    "chalk": "^5.2.0"
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
   }
 }
