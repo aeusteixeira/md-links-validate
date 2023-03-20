@@ -1,10 +1,10 @@
 {
-  "name": "md-links-validate",
+  "name": "validate-links-for-md-file",
   "version": "1.0.0",
   "description": "Validador de status code HTTP de sites em arquivos MD",
   "main": "./cli.js",
   "bin": {
-    "<md-links-validate>": "./cli.js"
+    "<validate-links-for-md-file>": "./cli.js"
   },
   "preferGlobal": true,
   "type": "module",
@@ -15,13 +15,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aeusteixeira/md-links-validate"
+    "url": "git+https://github.com/aeusteixeira/validate-links-for-md-file"
   },
   "keywords": ["markdown", "URL"],
   "author": "Matheus Teixeira <contato.matheusteixeira@gmail.com> (https://matheusteixeira.com.br/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aeusteixeira/md-links-validate/issues",
+    "url": "https://github.com/aeusteixeira/validate-links-for-md-file/issues",
     "email": "contato.matheusteixeira@gmai.com"
   },
   "homepage": "matheusteixeira.com.br",
