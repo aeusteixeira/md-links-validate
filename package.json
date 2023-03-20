@@ -14,10 +14,11 @@
     "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
   },
   "keywords": ["markdown", "URL"],
-  "author": "",
+  "author": "Matheus Teixeira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+    "url": "https://github.com/aeusteixeira/md-links-validate",
+    "email": "contato.matheusteixeira@gmai.com"
   },
   "homepage": "matheusteixeira.com.br",
   "dependencies": {
