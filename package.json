@@ -1,7 +1,7 @@
 {
   "name": "md-links-validate",
   "version": "1.0.0",
-  "description": "Validade de status code HTTP em arquivos MD",
+  "description": "Validador de status code HTTP de sites em arquivos MD",
   "main": "./cli.js",
   "bin": {
     "<md-links-validate>": "./cli.js"
@@ -17,7 +17,7 @@
     "url": "git+https://github.com/aeusteixeira/md-links-validate"
   },
   "keywords": ["markdown", "URL"],
-  "author": "Matheus Teixeira <>contato.matheusteixeira@gmail.com> (https://matheusteixeira.com.br/)",
+  "author": "Matheus Teixeira <contato.matheusteixeira@gmail.com> (https://matheusteixeira.com.br/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aeusteixeira/md-links-validate",
