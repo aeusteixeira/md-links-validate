@@ -1,0 +1,26 @@
+{
+  "name": "md-links-validate",
+  "version": "1.0.0",
+  "description": "Validade de status code HTTP em arquivos MD",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node ./src/cli.js ./arquivos/texto.md",
+    "cli:valida": "node ./src/cli.js ./arquivos/texto.md --valida"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
+  },
+  "keywords": ["markdown", "URL"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+  },
+  "homepage": "matheusteixeira.com.br",
+  "dependencies": {
+    "chalk": "^5.2.0"
+  }
+}
